@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/bassam/dev/100-days-of-code/day-001/helloworld'
-relocations:     []
-...

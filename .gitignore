@@ -54,6 +54,7 @@ compile_commands.json
 
 # Clang
 *.dSYM/
+*/*/output/
 
 # Temporary files
 *.tmp
